@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:ArchitecturalModel/ArchitecturalModel.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:CircleRefrence/CircleRefrence.xcodeproj">
    </FileRef>
    <FileRef
